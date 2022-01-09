@@ -2,7 +2,7 @@
 
 Hello world is the simplest form of practice for any programming language. My goal here was to practice integrating a program from my IDE with a form of source control. I am demonstrating skills.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=r26g-NAfRFk)
 
 # Development Environment
 
